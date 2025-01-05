@@ -1,0 +1,12 @@
+"""The data you've provided consists of trip records from an Uber-like service, including details such as Request ID, Pickup Point, Driver ID, Trip Status, Request Timestamp, and Drop Timestamp."""
+
+Here's how we can interpret and read the data:
+
+Data Columns:
+-------------
+Request id: Unique identifier for each trip request.
+Pickup point: The location from where the rider is picked up (e.g., "Airport", "City").
+Driver id: Identifier for the driver completing the trip.
+Status: The status of the trip (e.g., "Trip Completed").
+Request timestamp: The timestamp indicating when the trip request was made.
+Drop timestamp: The timestamp indicating when the trip was completed and the rider was dropped off.
